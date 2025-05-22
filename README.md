@@ -12,9 +12,8 @@ Apaixonado por resolver problemas com análises, visualizações e automações 
 
 ## 📁 Repositórios em destaque
 
-- [`analise-logistica`](https://github.com/seuusuario/analise-logistica): Dashboard com indicadores de transporte e eficiência
-- [`powerbi-certificados`](https://github.com/seuusuario/powerbi-certificados): Projetos para o portfólio com Power BI
-- [`etl-scripts`](https://github.com/seuusuario/etl-scripts): Scripts de automação e transformação de dados
+https://fsguimaraes.github.io/guimadatahub/
+
 
 ## 🌱 Aprendendo atualmente
 
